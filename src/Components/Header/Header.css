@@ -1,0 +1,16 @@
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 60px;
+  background-color: rgb(148, 17, 28);
+}
+
+.header a {
+  text-decoration: none;
+  font-size: 30px;
+  color: #fff;
+  cursor: pointer;
+}
